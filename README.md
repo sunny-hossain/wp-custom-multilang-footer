@@ -1,0 +1,1 @@
+# wp-custom-multilang-footer
